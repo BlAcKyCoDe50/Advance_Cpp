@@ -1,0 +1,8 @@
+{
+    "editor.mouseWheelZoom": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

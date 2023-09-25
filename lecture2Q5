@@ -1,0 +1,9 @@
+name=input("Enter your name bro:- ")
+middlename=input("Enter your middle name:- ")
+lastname= input("Enter your last name:- ")
+fullname=name+middlename+lastname
+print(fullname)
+print(fullname[3:-3])
+print(fullname[:-2])
+print(fullname[4:10])
+print(fullname[7:])
